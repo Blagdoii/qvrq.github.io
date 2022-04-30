@@ -1,0 +1,49 @@
+body {
+background-image: url("https://i.postimg.cc/zfXvZLpB/PSX-20220430-143025.jpg");
+}
+
+p {
+text-align: center;
+color: white;
+font-family: 'Courier New', monospace;
+}
+
+h {
+text-align: center;
+color: white;
+font-family: Verdana, sans-serif;
+}
+
+.btn {
+text-align: center;
+  background: #340fdb;
+  background-image: -webkit-linear-gradient(top, #340fdb, #2812b9);
+  background-image: -moz-linear-gradient(top, #340fdb, #2812b9);
+  background-image: -ms-linear-gradient(top, #340fdb, #2812b9);
+  background-image: -o-linear-gradient(top, #340fdb, #2812b9);
+  background-image: linear-gradient(to bottom, #340fdb, #2812b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+text-align: center;
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+div {
+text-align: center;
+}
+
