@@ -1,0 +1,79 @@
+.classic {
+	background-color:#454cc7;
+	border-radius:28px;
+	border:1px solid #2319ab;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #282b66;
+}
+.classic:hover {
+	background-color:#332abd;
+}
+.classic:active {
+	position:relative;
+	top:1px;
+}
+
+p {
+font-family: montserrat;
+font-size: 18px;
+color: white;
+}
+
+h1 {
+font-family: Arial;
+font-size: 24px;
+color: white;
+}
+
+body {
+background-color: black;
+}
+
+.nitro {
+	background-color:#6e45c7;
+	border-radius:28px;
+	border:1px solid #2319ab;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #282b66;
+}
+.nitro:hover {
+	background-color:#332abd;
+}
+.nitro:active {
+	position:relative;
+	top:1px;
+}
+
+.boost {
+	background-color:#7a48f0;
+	border-radius:28px;
+	border:1px solid #2319ab;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #282b66;
+}
+.boost:hover {
+	background-color:#332abd;
+}
+.boost:active {
+	position:relative;
+	top:1px;
+}
+
